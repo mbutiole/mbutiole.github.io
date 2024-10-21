@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mbutiole.github.io/mbutiole.txt.gz
+Sitemap: https://mbutiole.github.io/app/mbutiole.txt.gz
+Sitemap: https://mbutiole.github.io/assets/mbutiole.txt.gz
+Sitemap: https://mbutiole.github.io/css/mbutiole.txt.gz
+Sitemap: https://mbutiole.github.io/includes/mbutiole.txt.gz
+Sitemap: https://mbutiole.github.io/item/mbutiole.txt.gz
+Sitemap: https://mbutiole.github.io/src/mbutiole.txt.gz
